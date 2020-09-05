@@ -2,4 +2,4 @@ let: (int) year = 19;
 alert: (string) "year";
 alert: year;
 log: year;
-log: (string) "15"; $text;
+log: (string) "15"; $text
